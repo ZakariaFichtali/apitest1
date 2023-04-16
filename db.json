@@ -1,6 +1,6 @@
 {
     "app1" : {
-        "ads1": {
+        "ads": {
             "show_ads": true,
             "bannerAd": "admob",
             "InterAd": "admob",
