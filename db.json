@@ -207,8 +207,10 @@
             "unityInter": "Android_Interstitial",
             "intersitial_click_activites": 1,
             "intersitial_click_list": 3
-        }
-    },"APP10": {
+        }   
+    },
+
+    "APP10": {
         "ads10": {
             "show_ads": false,
             "bannerAd": "unity",
@@ -231,5 +233,5 @@
             "intersitial_click_activites": 1,
             "intersitial_click_list": 3
         }
-    },
+    }
 }
