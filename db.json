@@ -1,7 +1,7 @@
 {
     "app1" : {
         "Ads": {
-            "show_ads": true,
+            "show_ads": false,
             "bannerAd": "max",
             "InterAd": "max",
             "NativeAd": "max",
